@@ -100,7 +100,7 @@ A complete screen recording of the application demonstrating:
 is available at the link below:
 
 🔗 **Screen Recording:**  
-👉 [Recording of Application](app_recording.mp4)
+👉 [Recording of Application](App_Recording.mp4)
 
 
 ---
